@@ -1,3 +1,7 @@
+#Wave | A Music Player
+
+![alt text](https://github.com/edmiller1/wave-react-player/blob/main/image.jpg?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
