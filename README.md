@@ -4,6 +4,9 @@
 
 # Built with:
   * [React](https://reactjs.org/)
+  * [Tailwind CSS](https://tailwindcss.com/)
+  * [Sass](https://sass-lang.com/)
+  * [Themoviedatabase API](https://www.themoviedb.org/)
 
 # Getting Started with Create React App
 
