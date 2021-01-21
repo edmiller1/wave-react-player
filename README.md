@@ -1,6 +1,6 @@
 #Wave | A Music Player
 
-![alt text](https://github.com/edmiller1/wave-react-player/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/edmiller1/wave-react-player/blob/main/waves.png?raw=true)
 
 # Getting Started with Create React App
 
