@@ -1,6 +1,9 @@
-#Wave | A Music Player
+# Wave | A Music Player
 
 ![alt text](https://github.com/edmiller1/wave-react-player/blob/main/waves.png?raw=true)
+
+# Built with:
+  * [React](https://reactjs.org/)
 
 # Getting Started with Create React App
 
